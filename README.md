@@ -179,9 +179,19 @@ I focus on converting AI concepts into **production-ready applications** with cl
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wyldex3ml-pro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=7200"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyldex3ml-pro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200"/>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night&area=true&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
@@ -195,19 +205,13 @@ I focus on converting AI concepts into **production-ready applications** with cl
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night&area=true&hide_border=true"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophy Wall
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=wyldex3ml-pro&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=wyldex3ml-pro&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
