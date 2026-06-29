@@ -181,11 +181,7 @@ I focus on converting AI concepts into **production-ready applications** with cl
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wyldex3ml-pro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyldex3ml-pro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="./assets/github-analytics.svg" alt="GitHub Analytics"/>
 
 </div>
 
@@ -215,7 +211,7 @@ I focus on converting AI concepts into **production-ready applications** with cl
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=wyldex3ml-pro&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+<img src="./assets/github-trophies.svg" alt="GitHub Trophy Wall"/>
 
 </div>
 
