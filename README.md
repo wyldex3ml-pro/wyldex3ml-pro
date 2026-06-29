@@ -1,137 +1,78 @@
 <div align="center">
 
-# Hi 👋, I'm Aditya Sarap
+# 👋 Hi, I'm Aditya Sarap
 
-### AI Developer | ML Engineer | Generative AI Specialist | Python Automation Expert
+### AI Developer • ML Engineer • Generative AI Specialist • Python Automation Expert
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Multi-Agent+AI+Developer;Python+Automation+Expert;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Multi-Agent+AI+Developer;Python+Automation+Expert;Always+Learning+Always+Building+🚀" />
 
-<p>
-
-<a href="mailto:adityasarap0009@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/wyldex3ml-pro">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/aditya-sarap">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-AI Developer passionate about designing production-grade AI systems powered by Machine Learning, Generative AI, Multi-Agent Systems and Large Language Models.
+I'm an AI Developer passionate about building production-grade AI systems using Machine Learning, Generative AI, Multi-Agent Architectures, and LLM-powered automation.
 
-Currently pursuing **MCA (Data Science)** while building real-world AI products that solve business problems through automation and intelligent decision making.
-
----
-
-## 🚀 Professional Summary
-
-✔ Production AI Developer
-
-✔ Generative AI Engineer
-
-✔ Multi-Agent Systems Builder
-
-✔ RAG Pipeline Developer
-
-✔ Python Automation Expert
-
-✔ Live AI Product Developer
+- 🎓 MCA (Data Science)
+- 🤖 AI & GenAI Engineer
+- 🧠 LLM Application Developer
+- ⚡ Python Automation Expert
+- 🌍 Pune, Maharashtra, India
 
 ---
 
-## 🎯 Highlights
+# 🏆 Highlights
 
-🚀 4 Live Deployed AI Projects
-
-📂 7 GitHub Repositories
-
-🏆 8+ Industry Certifications
-
-🤖 Production Multi-Agent AI Systems
+- 🚀 4 Live Deployed AI Projects
+- 📂 7+ GitHub Repositories
+- 🏅 8+ Industry Certifications
+- 🤖 Multi-Agent AI Systems
+- 📈 Production AI Applications
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+### Languages
 
-- Python
-- SQL
-- MySQL
-- JavaScript
-- HTML5
-- CSS3
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
----
+### AI & ML
 
-## AI & Machine Learning
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
 
-- Generative AI
-- LLMs
-- RAG
 - LangChain
 - LangGraph
+- RAG
+- LLMs
 - Prompt Engineering
-- Multi-Agent Systems
-- TensorFlow
-- PyTorch
-- Scikit-Learn
+- FAISS
 - Pandas
 - NumPy
-- FAISS
+- Scikit-Learn
 
----
+### Backend
 
-## APIs & Models
+![Flask](https://skillicons.dev/icons?i=flask)
+![Git](https://skillicons.dev/icons?i=git)
 
-- Groq API
-- Gemini API
-- AWS Bedrock
-- OpenAI API
-- Llama 3.3 70B
-
----
-
-## Web Development
-
-- Flask
 - Streamlit
-- Power BI
-- Tableau
-- Plotly
-- Matplotlib
+- FastAPI (Learning)
+- REST APIs
 
----
+### Cloud
 
-## Cloud & DevOps
-
-- AWS EC2
-- AWS S3
-- IAM
-- Railway
-- Render
-- GitHub Actions
-- Git
-
----
-
-## Databases
-
-- SQLite
-- MySQL
-- Vector Databases
-- FAISS
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Github](https://skillicons.dev/icons?i=github)
 
 ---
 
@@ -139,56 +80,132 @@ Currently pursuing **MCA (Data Science)** while building real-world AI products 
 
 ## 🤖 AI Automation Hub
 
-AI Email Intelligence Platform
-
-### Features
+> AI Email Intelligence & Automation
 
 - Email Classification
 - AI Reply Generation
-- Live Dashboard
-- Autonomous Scheduler
 - Groq API
-- Llama 3.3 70B
+- Flask
+- SQLite
+- Railway
 
 ---
 
-## 🛡 Aegis AI
+## 🛡️ Aegis AI
 
-Autonomous Enterprise Incident Commander
-
-### Features
+Enterprise Multi-Agent Incident Commander
 
 - LangGraph
-- RAG Pipeline
-- Multi-Agent System
+- RAG
 - Vector Database
-- AI Incident Resolution
+- Multi-Agent AI
+- Autonomous Resolution
 
 ---
 
-## 👁 VigilanceAI
+## 👁️ VigilanceAI
 
 Production AI Surveillance Platform
 
-### Features
-
 - Semantic Search
-- Threat Intelligence
-- Event Routing
+- AI Threat Detection
 - Streamlit Dashboard
-- Fast AI Search
+- Intelligent Routing
 
 ---
 
-## 🌐 AI Portfolio Website
+## 🌐 AI Portfolio
 
-Professional AI Portfolio showcasing
+Professional AI Portfolio Website
 
 - Live Projects
 - Skills
 - Certifications
-- GitHub Repositories
-- Contact Information
+- Responsive UI
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+> Enable the GitHub Action separately, then use:
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+</p>
+```
+
+---
+
+# 🎯 Current Focus
+
+- Generative AI
+- LLM Applications
+- Multi-Agent Systems
+- Prompt Engineering
+- AI Automation
+- Cloud Deployment
+- Production AI Systems
+
+---
+
+# 🎓 Education
+
+**MCA — Data Science**
+
+MIT College of Management
+
+CGPA: **7.77**
+
+---
+
+**BCA — Data Science**
+
+MIT ADT University
+
+CGPA: **7.02**
 
 ---
 
@@ -205,37 +222,19 @@ Professional AI Portfolio showcasing
 
 ---
 
-# 🎓 Education
+# 📅 2026 Goals
 
-### MCA (Data Science)
-
-MIT College of Management, Pune
-
-CGPA: **7.77**
-
----
-
-### BCA (Data Science)
-
-MIT ADT University
-
-CGPA: **7.02**
+- 🚀 Build Enterprise AI Products
+- 🤖 Master Multi-Agent Systems
+- 📚 Learn Advanced LLM Engineering
+- 🌍 Contribute to Open Source
+- 🏆 Become an AI Solutions Architect
 
 ---
 
-# 📊 GitHub Analytics
+# 💬 Dev Quote
 
-![](https://github-readme-stats.vercel.app/api?username=wyldex3ml-pro&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=wyldex3ml-pro&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wyldex3ml-pro&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night)
+> "First, solve the problem. Then, write the code."
 
 ---
 
@@ -243,39 +242,24 @@ CGPA: **7.02**
 
 📧 Email
 
-**adityasarap0009@gmail.com**
+adityasarap0009@gmail.com
 
-📍 Pune, Maharashtra, India
+🌐 GitHub
+
+https://github.com/wyldex3ml-pro
 
 💼 LinkedIn
 
 https://linkedin.com/in/aditya-sarap
 
-🌐 Portfolio
-
-https://ai-portfolio-i4cj.onrender.com
-
-🐙 GitHub
-
-https://github.com/wyldex3ml-pro
-
----
-
-# 🎯 2026 Goals
-
-- Build Enterprise AI Products
-- Contribute to Open Source
-- Master LLM Engineering
-- Build AI Startups
-- Publish Research
-- Become an AI Solutions Architect
+📍 Pune, Maharashtra, India
 
 ---
 
 <div align="center">
 
-### ⭐ "Building AI that solves real-world problems."
+### ⭐ Thanks for visiting!
 
-<img src="https://komarev.com/ghpvc/?username=wyldex3ml-pro&label=Profile+Views&color=0e75b6&style=flat"/>
+If you like my work, consider ⭐ starring my repositories.
 
 </div>
