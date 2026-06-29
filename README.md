@@ -194,51 +194,36 @@ I focus on converting AI concepts into **production-ready applications** with cl
 
 ---
 
-## 📊 GitHub Analytics
+
+
+## 📊 GitHub Profile Snapshot
 
 <div align="center">
 
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wyldex3ml-pro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-</p>
-
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyldex3ml-pro&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+<table>
+<tr>
+<td align="center"><b>Primary Language</b></td>
+<td align="center"><b>Core Domain</b></td>
+<td align="center"><b>Live Projects</b></td>
+<td align="center"><b>Repositories</b></td>
+</tr>
+<tr>
+<td align="center">Python</td>
+<td align="center">AI / GenAI</td>
+<td align="center">4</td>
+<td align="center">7+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=wyldex3ml-pro&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-</div>
 
----
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=wyldex3ml-pro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake Game
 
@@ -256,35 +241,7 @@ I focus on converting AI concepts into **production-ready applications** with cl
 
 ---
 
-## 👾 Pac-Man Contribution Game
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### Coming Soon
-
-Pac-Man contribution animation is reserved here and will activate after a Pac-Man workflow is added.
-
-Until then, the profile stays clean with no broken image.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!--
-After creating a working Pac-Man GitHub Action, uncomment this image:
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/wyldex3ml-pro/wyldex3ml-pro/output/pacman-contribution-graph-dark.svg"/>
-</div>
--->
-
----
 
 ## 🎯 Current Focus
 
