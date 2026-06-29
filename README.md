@@ -179,11 +179,9 @@ I focus on converting AI concepts into **production-ready applications** with cl
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="./assets/github-analytics.svg" alt="GitHub Analytics"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
 
 ---
 
@@ -199,21 +197,17 @@ I focus on converting AI concepts into **production-ready applications** with cl
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophy Wall
 
-<div align="center">
-
-<img src="./assets/github-trophies.svg" alt="GitHub Trophy Wall"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=wyldex3ml-pro&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15"/>
+</p>
 
 ---
 
