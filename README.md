@@ -1,56 +1,67 @@
-````md
+```md
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=180&section=header&text=Aditya%20Sarap&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 # 👋 Hi, I'm Aditya Sarap
 
 ### AI Developer • ML Engineer • Generative AI Specialist • Python Automation Expert
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Multi-Agent+AI+Developer;Python+Automation+Expert;Always+Learning+Always+Building+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Multi-Agent+AI+Developer;Python+Automation+Expert;Always+Learning+Always+Building"/>
 
-<p>
+<br/>
+
 <a href="mailto:adityasarap0009@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/wyldex3ml-pro">
-<img src="https://img.shields.io/badge/GitHub-wyldex3ml--pro-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-wyldex3ml--pro-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/aditya-sarap">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sarap-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sarap-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=wyldex3ml-pro&style=for-the-badge"/>
+<a href="https://ai-portfolio-i4cj.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Live%20Website-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=wyldex3ml-pro&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm an AI Developer passionate about building **production-grade AI systems** using Machine Learning, Generative AI, Multi-Agent Architectures, RAG pipelines, and LLM-powered automation.
+I am a results-driven **AI Developer** and **MCA Data Science student** focused on building real-world AI systems, automation platforms, RAG pipelines, LLM-powered applications, and multi-agent architectures.
 
-- 🎓 MCA (Data Science)
-- 🤖 AI & Generative AI Engineer
-- 🧠 LLM Application Developer
-- ⚡ Python Automation Expert
-- 📍 Pune, Maharashtra, India
+I enjoy transforming AI concepts into production-ready applications with clean backend logic, live dashboards, cloud deployment, and practical business use cases.
 
----
-
-# 🏆 Highlights
-
-- 🚀 4 Live Production AI Projects
-- 📂 7+ GitHub Repositories
-- 🏅 8+ Industry Certifications
-- 🤖 Multi-Agent AI Systems
-- 🌐 Publicly Deployed AI Applications
+- 🎓 MCA Data Science Student  
+- 🤖 AI Developer & GenAI Engineer  
+- 🧠 LLM, RAG & Multi-Agent Systems Builder  
+- ⚡ Python Automation Developer  
+- 🌍 Pune, Maharashtra, India  
+- 🚀 Actively seeking AI Developer, ML Engineer, GenAI, and Automation roles  
 
 ---
 
-# 💻 Tech Stack
+## 🏆 Professional Highlights
+
+- 🚀 Built **4 live deployed AI projects**
+- 📂 Created **7+ GitHub repositories**
+- 🏅 Completed **8+ industry certifications**
+- 🤖 Built multi-agent AI systems using LangGraph and RAG
+- 🌐 Deployed production-ready apps using Railway, Render, and Streamlit
+- ⚙️ Experienced in Python automation, dashboards, APIs, and vector search
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -58,227 +69,261 @@ I'm an AI Developer passionate about building **production-grade AI systems** us
 <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
 </p>
 
-### AI / Machine Learning
+### AI / ML / GenAI
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-- LangChain
-- LangGraph
-- RAG
-- LLMs
-- Prompt Engineering
-- FAISS
-- Pandas
-- NumPy
-- Scikit-Learn
+`Generative AI` `LLMs` `RAG` `LangChain` `LangGraph` `Prompt Engineering` `FAISS` `Pandas` `NumPy` `Scikit-Learn`
 
-### Backend
+### Backend & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,git,docker,aws"/>
+<img src="https://skillicons.dev/icons?i=flask,git,github,docker,aws"/>
 </p>
 
-- Streamlit
-- REST APIs
+`Streamlit` `REST APIs` `SQLite` `MySQL` `Vector Databases` `GitHub Actions`
+
+### Cloud & Deployment
+
+`AWS EC2` `AWS S3` `IAM` `Railway` `Render` `GitHub Actions`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 AI Automation Hub
+<table>
+<tr>
+<td width="50%">
 
-✔ AI Email Classification
+### 🤖 AI Automation Hub
 
-✔ AI Reply Generation
+AI Email Intelligence & Automation System
 
-✔ Groq API
+- Email classification
+- AI-generated replies
+- Groq API
+- LLaMA 3.3 70B
+- Flask dashboard
+- SQLite database
+- Railway deployment
 
-✔ Flask
+🔗 [Live Dashboard](https://ai-automation-hub-production.up.railway.app)  
+🔗 [GitHub Repo](https://github.com/wyldex3ml-pro/ai-automation-hub)
 
-✔ SQLite
+</td>
+<td width="50%">
 
-✔ Railway Deployment
+### 🛡️ Aegis AI
+
+Autonomous Enterprise Incident Commander
+
+- Multi-agent architecture
+- LangGraph workflow
+- RAG pipeline
+- Vector database
+- Incident triage
+- Automated resolution suggestions
+
+🔗 [Live API](https://aegis-ai-cr2u.onrender.com)  
+🔗 [GitHub Repo](https://github.com/wyldex3ml-pro/aegis-ai)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️ VigilanceAI
+
+Production AI Surveillance Platform
+
+- Semantic search
+- AI threat triage
+- Intelligent event routing
+- Streamlit dashboard
+- Render backend deployment
+
+🔗 [Dashboard](https://wyldex3ml-pro-vigilanceai-dashboard-q9celx.streamlit.app)  
+🔗 [Backend API](https://vigilanceai-vt78.onrender.com)  
+🔗 [GitHub Repo](https://github.com/wyldex3ml-pro/VigilanceAI)
+
+</td>
+<td width="50%">
+
+### 🌐 AI Developer Portfolio
+
+Professional AI portfolio website
+
+- Live projects
+- Skills showcase
+- Certifications
+- Responsive UI
+- Recruiter-friendly design
+
+🔗 [Live Portfolio](https://ai-portfolio-i4cj.onrender.com)  
+🔗 [GitHub Repo](https://github.com/wyldex3ml-pro/ai-portfolio)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛡️ Aegis AI
+## 📊 GitHub Analytics
 
-✔ Enterprise Multi-Agent AI
+<div align="center">
 
-✔ LangGraph
-
-✔ RAG Pipeline
-
-✔ Vector Database
-
-✔ Autonomous Incident Resolution
-
----
-
-## 👁️ VigilanceAI
-
-✔ Semantic Search
-
-✔ Threat Intelligence
-
-✔ Streamlit Dashboard
-
-✔ Intelligent Event Routing
-
----
-
-## 🌐 AI Portfolio
-
-✔ Live Projects
-
-✔ Skills Showcase
-
-✔ Certifications
-
-✔ Responsive UI
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wyldex3ml-pro&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wyldex3ml-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyldex3ml-pro&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=wyldex3ml-pro&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=wyldex3ml-pro&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 GitHub Trophy Wall
 
-> Enable the GitHub Action, then use:
+<div align="center">
 
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/wyldex3ml-pro/wyldex3ml-pro/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-```
+<img src="https://github-profile-trophy.vercel.app/?username=wyldex3ml-pro&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
-# 🎯 Current Focus
+## 🐍 Contribution Snake
 
-- 🤖 Generative AI
-- 🧠 LLM Applications
-- 🔗 LangGraph
-- 📚 Retrieval-Augmented Generation (RAG)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/wyldex3ml-pro/wyldex3ml-pro/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+
+</div>
+
+> Note: The snake will show only after you create and run the snake GitHub Action workflow.
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 Generative AI Applications
+- 🧠 LLM Engineering
+- 🔗 LangGraph Multi-Agent Systems
+- 📚 Retrieval-Augmented Generation
 - ⚙️ AI Automation
 - ☁️ Cloud Deployment
 - 🚀 Production AI Systems
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-### MCA — Data Science
+### MCA — Data Science  
+**MIT College of Management, Pune**  
+CGPA: **7.77 / 10**  
+2025 – 2027
 
-**MIT College of Management**
-
-CGPA **7.77 / 10**
-
-### BCA — Data Science
-
-**MIT ADT University**
-
-CGPA **7.02 / 10**
+### BCA — Data Science  
+**MIT Art, Design and Technology University, Pune**  
+CGPA: **7.02 / 10**  
+2022 – 2025
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications
 
-- IBM AI
-- Google AI
-- AWS Generative AI
-- DeepLearning.AI
-- Meta Database Management
-- Python Data Structures
-- Anthropic Claude Code
-- NYU Cyber Attacks
-
----
-
-# 📅 Goals
-
-- 🚀 Build Enterprise AI Products
-- 🤖 Master Multi-Agent Systems
-- 📚 Advanced LLM Engineering
-- 🌍 Open Source Contributions
-- 🏆 AI Solutions Architect
+- Introduction to Artificial Intelligence — IBM
+- Getting Started with AWS Generative AI for Developers — AWS
+- Introduction to AI — Google
+- AI For Everyone — DeepLearning.AI
+- Claude Code in Action — Anthropic
+- Database Structures and Management with MySQL — Meta
+- Python Data Structures — University of Michigan
+- Introduction to Cyber Attacks — New York University
 
 ---
 
-# 💬 Quote
+## 💼 Internship Experience
+
+### Software Developer Intern  
+**IndiaTech Software**  
+June 2026 – August 2026
+
+- Contributed to coding, testing, and documentation
+- Worked with software development workflows
+- Collaborated with development teams on real-world projects
+- Improved practical understanding of project delivery and code quality
+
+---
+
+## 📅 Goals
+
+- 🚀 Build enterprise-grade AI products
+- 🤖 Master multi-agent AI systems
+- 📚 Advance in LLM engineering
+- 🌍 Contribute to open source
+- 🏆 Become an AI Solutions Architect
+
+---
+
+## 💬 Quote
 
 > **"First, solve the problem. Then, write the code."**
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p>
+<div align="center">
 
 <a href="mailto:adityasarap0009@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-adityasarap0009%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/wyldex3ml-pro">
-<img src="https://img.shields.io/badge/GitHub-wyldex3ml--pro-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-wyldex3ml--pro-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/aditya-sarap">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sarap-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sarap-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://ai-portfolio-i4cj.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## ⭐ Thanks for Visiting
 
-If you like my projects, consider giving them a ⭐.
+If you like my work, consider exploring my repositories and giving them a ⭐.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
 
 </div>
-````
+```
