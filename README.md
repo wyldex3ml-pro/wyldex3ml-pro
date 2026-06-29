@@ -1,12 +1,28 @@
+````md
 <div align="center">
 
 # 👋 Hi, I'm Aditya Sarap
 
 ### AI Developer • ML Engineer • Generative AI Specialist • Python Automation Expert
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Multi-Agent+AI+Developer;Python+Automation+Expert;Always+Learning+Always+Building+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Multi-Agent+AI+Developer;Python+Automation+Expert;Always+Learning+Always+Building+🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<p>
+<a href="mailto:adityasarap0009@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/wyldex3ml-pro">
+<img src="https://img.shields.io/badge/GitHub-wyldex3ml--pro-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/aditya-sarap">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sarap-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=wyldex3ml-pro&style=for-the-badge"/>
+
+</p>
 
 </div>
 
@@ -14,23 +30,23 @@
 
 # 🚀 About Me
 
-I'm an AI Developer passionate about building production-grade AI systems using Machine Learning, Generative AI, Multi-Agent Architectures, and LLM-powered automation.
+I'm an AI Developer passionate about building **production-grade AI systems** using Machine Learning, Generative AI, Multi-Agent Architectures, RAG pipelines, and LLM-powered automation.
 
 - 🎓 MCA (Data Science)
-- 🤖 AI & GenAI Engineer
+- 🤖 AI & Generative AI Engineer
 - 🧠 LLM Application Developer
 - ⚡ Python Automation Expert
-- 🌍 Pune, Maharashtra, India
+- 📍 Pune, Maharashtra, India
 
 ---
 
 # 🏆 Highlights
 
-- 🚀 4 Live Deployed AI Projects
+- 🚀 4 Live Production AI Projects
 - 📂 7+ GitHub Repositories
 - 🏅 8+ Industry Certifications
 - 🤖 Multi-Agent AI Systems
-- 📈 Production AI Applications
+- 🌐 Publicly Deployed AI Applications
 
 ---
 
@@ -38,16 +54,15 @@ I'm an AI Developer passionate about building production-grade AI systems using 
 
 ### Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![SQL](https://skillicons.dev/icons?i=mysql)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
+</p>
 
-### AI & ML
+### AI / Machine Learning
 
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
 - LangChain
 - LangGraph
@@ -61,18 +76,12 @@ I'm an AI Developer passionate about building production-grade AI systems using 
 
 ### Backend
 
-![Flask](https://skillicons.dev/icons?i=flask)
-![Git](https://skillicons.dev/icons?i=git)
+<p>
+<img src="https://skillicons.dev/icons?i=flask,git,docker,aws"/>
+</p>
 
 - Streamlit
-- FastAPI (Learning)
 - REST APIs
-
-### Cloud
-
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Github](https://skillicons.dev/icons?i=github)
 
 ---
 
@@ -80,58 +89,65 @@ I'm an AI Developer passionate about building production-grade AI systems using 
 
 ## 🤖 AI Automation Hub
 
-> AI Email Intelligence & Automation
+✔ AI Email Classification
 
-- Email Classification
-- AI Reply Generation
-- Groq API
-- Flask
-- SQLite
-- Railway
+✔ AI Reply Generation
+
+✔ Groq API
+
+✔ Flask
+
+✔ SQLite
+
+✔ Railway Deployment
 
 ---
 
 ## 🛡️ Aegis AI
 
-Enterprise Multi-Agent Incident Commander
+✔ Enterprise Multi-Agent AI
 
-- LangGraph
-- RAG
-- Vector Database
-- Multi-Agent AI
-- Autonomous Resolution
+✔ LangGraph
+
+✔ RAG Pipeline
+
+✔ Vector Database
+
+✔ Autonomous Incident Resolution
 
 ---
 
 ## 👁️ VigilanceAI
 
-Production AI Surveillance Platform
+✔ Semantic Search
 
-- Semantic Search
-- AI Threat Detection
-- Streamlit Dashboard
-- Intelligent Routing
+✔ Threat Intelligence
+
+✔ Streamlit Dashboard
+
+✔ Intelligent Event Routing
 
 ---
 
 ## 🌐 AI Portfolio
 
-Professional AI Portfolio Website
+✔ Live Projects
 
-- Live Projects
-- Skills
-- Certifications
-- Responsive UI
+✔ Skills Showcase
+
+✔ Certifications
+
+✔ Responsive UI
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wyldex3ml-pro&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyldex3ml-pro&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -141,17 +157,17 @@ Professional AI Portfolio Website
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=wyldex3ml-pro&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wyldex3ml-pro&theme=tokyo-night"/>
 
 </p>
 
@@ -161,19 +177,19 @@ Professional AI Portfolio Website
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=wyldex3ml-pro&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# 🐍 Snake Eating Contributions
+# 🐍 Contribution Snake
 
-> Enable the GitHub Action separately, then use:
+> Enable the GitHub Action, then use:
 
 ```html
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/wyldex3ml-pro/wyldex3ml-pro/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 ```
 
@@ -181,31 +197,29 @@ Professional AI Portfolio Website
 
 # 🎯 Current Focus
 
-- Generative AI
-- LLM Applications
-- Multi-Agent Systems
-- Prompt Engineering
-- AI Automation
-- Cloud Deployment
-- Production AI Systems
+- 🤖 Generative AI
+- 🧠 LLM Applications
+- 🔗 LangGraph
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚙️ AI Automation
+- ☁️ Cloud Deployment
+- 🚀 Production AI Systems
 
 ---
 
 # 🎓 Education
 
-**MCA — Data Science**
+### MCA — Data Science
 
-MIT College of Management
+**MIT College of Management**
 
-CGPA: **7.77**
+CGPA **7.77 / 10**
 
----
+### BCA — Data Science
 
-**BCA — Data Science**
+**MIT ADT University**
 
-MIT ADT University
-
-CGPA: **7.02**
+CGPA **7.02 / 10**
 
 ---
 
@@ -215,51 +229,56 @@ CGPA: **7.02**
 - Google AI
 - AWS Generative AI
 - DeepLearning.AI
-- Meta MySQL
+- Meta Database Management
 - Python Data Structures
 - Anthropic Claude Code
 - NYU Cyber Attacks
 
 ---
 
-# 📅 2026 Goals
+# 📅 Goals
 
 - 🚀 Build Enterprise AI Products
 - 🤖 Master Multi-Agent Systems
-- 📚 Learn Advanced LLM Engineering
-- 🌍 Contribute to Open Source
-- 🏆 Become an AI Solutions Architect
+- 📚 Advanced LLM Engineering
+- 🌍 Open Source Contributions
+- 🏆 AI Solutions Architect
 
 ---
 
-# 💬 Dev Quote
+# 💬 Quote
 
-> "First, solve the problem. Then, write the code."
+> **"First, solve the problem. Then, write the code."**
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email
+<p>
 
-adityasarap0009@gmail.com
+<a href="mailto:adityasarap0009@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-🌐 GitHub
+<a href="https://github.com/wyldex3ml-pro">
+<img src="https://img.shields.io/badge/GitHub-wyldex3ml--pro-black?style=for-the-badge&logo=github"/>
+</a>
 
-https://github.com/wyldex3ml-pro
+<a href="https://linkedin.com/in/aditya-sarap">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sarap-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-💼 LinkedIn
-
-https://linkedin.com/in/aditya-sarap
-
-📍 Pune, Maharashtra, India
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+## ⭐ Thanks for Visiting!
 
-If you like my work, consider ⭐ starring my repositories.
+If you like my projects, consider giving them a ⭐.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
 
 </div>
+````
